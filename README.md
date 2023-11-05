@@ -1,9 +1,9 @@
 # TicTacToe
 
-Simple TicTacToe with a simple AI using the MiniMax algorithm
+Simple TicTacToe including a simple AI based on MinMax algorithm
 
-Written in Unity3d using C# by Julian Müller
+Written in Unity3d
 
 # How to play
 
-Just clone this repository and import it in Unity3D
+Just clone this repository and import it
